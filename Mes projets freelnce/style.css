@@ -1,0 +1,30 @@
+*{
+    margin:0;
+    padding: 0;
+    font-weight: 700;
+    font-family: 'Montserrat';
+    font-size: 1.3rem;
+}
+.text_color{
+    color:#d34848!important;
+}
+.bg_color{
+    background-color:#d34848!important;
+}
+i{
+    font-size: 1rem !important;
+}
+.footer{
+    width:90%;
+}
+.carte{
+    width: 90%;
+    height:50vh;
+    
+}
+table{
+  border: 0px !important;
+}
+.informations{
+    margin-top:2rem !important;
+}
